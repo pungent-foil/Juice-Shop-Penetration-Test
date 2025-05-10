@@ -1,4 +1,4 @@
-### Vulnerability: Content Security Policy (CSP) Header not set
+##### Vulnerability: Content Security Policy (CSP) Header not set
 - **Severity**: Medium
 - **Location**: http://localhost:3000
 - **Tool used**: OWASP ZAP
