@@ -1,17 +1,17 @@
-## 🛡️Vulnerability: Content Security Policy (CSP) Header not set
+# 🛡️Vulnerability: Content Security Policy (CSP) Header not set
 - **Severity**: Medium ⚠️
 - **Location**: http://localhost:3000 🌐
 - **Tool used**: OWASP ZAP 🛠️
 
 ---
 
-### Description 📖
+## Description 📖
 
 CSP is an added layer of security that helps to detect and mitigate certain types of attacks, inlcuding Cross Site Scripting (XSS) and data injection attacks. These attacks are used for everything from data theft to site defacement or distribution of malware. CSP provides a set of standard HTTP headers that allow website owners to declare approved sources of contnent that browsers should be abllowed to laod on that page - covered types are JavaScript, CSS, HTML frames, fonts, images and embeddable objects such as Java applets, ActiveX, audio and video files.
 
 ---
 
-### Proof of concept 🧪
+## Proof of concept 🧪
 1. open OWASP ZAP and proxy traffic from firefox throgh it.
 2. visit 'http://localhost:3000' (OWASP Juice Shop running locally).
 3. in Zap, inspect the HTTP response headers for any page.
@@ -19,7 +19,7 @@ CSP is an added layer of security that helps to detect and mitigate certain type
 
 ---
 
-### Impact 🟥
+## Impact 🟥
 
 Without a CSP in place:
 - Malicious scripts may be loaded from unauthorized domains.
@@ -29,7 +29,7 @@ Without a CSP in place:
 
 ---
 
-### Recommendation 💻
+## Recommendation 💻
 
 Ensure that your web server, application server, load balancer, etc. is configured to set the Content-Security-Policy header.
 Add a strict `Content-Security-Policy` header to all HTTP responses to control allowed content sources. Example:
