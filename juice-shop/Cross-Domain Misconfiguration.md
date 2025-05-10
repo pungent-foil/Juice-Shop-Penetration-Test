@@ -8,7 +8,7 @@
 
 ## Descritpion 📖
 
-Cross=Domain misconfiguration occurs when a web application improperly allows resources to be accessed or sahred across different domains. This can expose sensitive data or allow unauthorised scripts from untrusted origins to interact withthe application via mechanisms like CORS (Cross-Origin Resource Sharing). 
+Cross-Domain misconfiguration occurs when a web application improperly allows resources to be accessed or sahred across different domains. This can expose sensitive data or allow unauthorised scripts from untrusted origins to interact withthe application via mechanisms like CORS (Cross-Origin Resource Sharing). 
 If CORS is overly permissive, for example, if it allows all origins (*) or reflects the origin header without validation, malicious websites may be able to make authenticated requests or exfiltrate data.
 
 ---
