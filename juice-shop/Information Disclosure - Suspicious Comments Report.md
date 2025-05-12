@@ -1,4 +1,4 @@
-# 🛡️Cross-Domain Misconfiguration 
+# 🛡️nformation Disclosure - Suspicious Comments
 
 - **Severity**: Informational Alert ⚠️
 - **Location**: http://localhost:3000 🌐
