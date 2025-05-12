@@ -1,4 +1,4 @@
-# 🛡️nformation Disclosure - Suspicious Comments
+# 🛡️Information Disclosure - Suspicious Comments
 
 - **Severity**: Informational Alert ⚠️
 - **Location**: http://localhost:3000 🌐
