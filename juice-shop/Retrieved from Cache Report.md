@@ -1,4 +1,4 @@
-# 🛡️Cross-Domain Misconfiguration 
+# 🛡️Retrieved From Cache
 
 - **Severity**: Informational Alert ⚠️
 - **Location**: http://localhost:3000 🌐
