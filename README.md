@@ -7,7 +7,7 @@
 ---
 
 ### 1.📝Summary:
-
+---
 This report documents security vulnerabilities identified during a penetration test of the OWASP Juice Shop application using OWASP ZAP. The objective eas to simulate real-world reconnaissance and attack techniques to discover misconfigurations, missing headers and injection flaws.
 
 All findings are presented with:
@@ -18,12 +18,16 @@ All findings are presented with:
 ---
 
 ### 2.🧰Tools Used
-
+---
+- OWASP ZAP - Automated vulnerability scanner
+- Kali Linux - Operating system for penetration testing
+- Firefox  -Browser used with Zap proxy
+- Git hub - Report documentation & version control
 
 ---
 
 ### 3.🚫Vulnerabilities Identified
-
+---
 - Cross-Domain Misconfiguration Report.md
 - Missing CSP header Report.md
 - Missing anti click-jacking Header Report.md
@@ -32,4 +36,6 @@ All findings are presented with:
 - Retrieved from Cache Report.md
 - Timestamp Disclosure Report.md
 - X-Content-Type-Options Header missing report.md
+
+---
 
