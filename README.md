@@ -31,7 +31,7 @@ All findings are presented with:
 - [Private IP Disclosure](juice-shop/Private-IP-Disclosure-Report.md)
 - [Retrieved from Cache](juice-shop/Retrieved-from-Cache-Report.md)
 - [Timestamp Disclosure](juice-shop/Timestamp-Disclosure-Report.md)
-- [X-Content-Type-Options Header missing](juice-shop/X-Content-Type-Options-Header-missing-Report.md)
+- [X-Content-Type-Options Header missing](juice-shop/X-Content-Type-Options-Header-Missing-Report.md)
 
 ---
 
