@@ -11,11 +11,15 @@ All findings are presented with:
 - Proof of Concept (PoC) steps
 - Technical explanation
 - Remediation recomendations 
---
+---
+
 2.Tools Used
---
+
+
+---
+
 3.Vulnerabilities Identified
---
+
 - Cross-Domain Misconfiguration Report.md
 - Missing CSP header Report.md
 - Missing anti click-jacking Header Report.md
