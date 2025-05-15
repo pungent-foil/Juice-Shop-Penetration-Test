@@ -21,7 +21,7 @@ Caching can cause issues when:
 
 1. open OWASP ZAP and proxy traffic through firefox.
 2. Visit 'http://localhost:3000' (OWASP Juice Shop running locally).
-3. In ZAP, examine HTTP responses for a header like: X-cache: HIT or Age: 512
+3. In ZAP, examine HTTP responses for a header like: X-cache: HIT or Age: 333806
 4. These indicate that the response was retrieved from cache.
 
 ---
@@ -39,6 +39,6 @@ While not a direct vulnerability, cached responses could leak sensitive or user-
 
 Review caching behaviour and headers. Specifically:
 - Avoid caching sensitive user-specific data.
-- Use cache headers like: Cache-Control: private, no-store
+- Use cache headers like: Cache-Control: no-cache, no-store, must-revalidate, private.
 - validate that caching is appropriate per resource.
 
