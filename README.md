@@ -1,6 +1,6 @@
 # 📁Juice Shop Vulnerability Report
 
-##🧭Table of Contents
+## 🧭Table of Contents
 1.Summary
 2.Tools Used
 3.Vulnerabilities Identified
