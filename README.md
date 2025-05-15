@@ -28,7 +28,7 @@ All findings are presented with:
 
 ### 3.🚫Vulnerabilities Identified
 ---
-- [Cross-Domain Misconfiguration](juiceshop/Cross-Domain Misconfiguration Report.md)
+- [Cross-Domain Misconfiguration](juiceshop/Cross-Domain-Misconfiguration-Report.md)
 - Missing CSP header Report.md
 - Missing anti click-jacking Header Report.md
 - Possible SQL Injection Report.md
