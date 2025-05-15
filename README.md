@@ -1,5 +1,7 @@
 # 📁Juice Shop Vulnerability Report
 
+---
+
 ## 🧭Table of Contents
 
 ---
