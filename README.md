@@ -29,13 +29,13 @@ All findings are presented with:
 ### 3.🚫Vulnerabilities Identified
 ---
 - [Cross-Domain Misconfiguration](juice-shop/Cross-Domain-Misconfiguration-Report.md)
-- Missing CSP header Report.md
-- Missing anti click-jacking Header Report.md
-- Possible SQL Injection Report.md
-- Private IP Disclosure Report.md
-- Retrieved from Cache Report.md
-- Timestamp Disclosure Report.md
-- X-Content-Type-Options Header missing report.md
+- [Missing CSP header](juice-shop/Missing-CSP-header-Report.md)
+- [Missing anti click-jacking Header](juice-shop/Missing-anti-click-jacking-Header-report.md)
+- [Possible SQL Injection](juice-shop/Possible-SQL-Injection-Report.md)
+- [Private IP Disclosure](juice-shop/Private-IP-Disclosure-Report.md)
+- [Retrieved from Cache](juice-shop/Retrieved-from-Cache-Report.md)
+- [Timestamp Disclosure](juice-shop/Timestamp-Disclosure-Report.md)
+- [X-Content-Type-Options Header missing](juice-shop/X-Content-Type-Options-Header-missing-Report.md)
 
 ---
 
