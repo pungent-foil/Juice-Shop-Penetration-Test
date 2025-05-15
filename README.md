@@ -2,7 +2,9 @@
 
 ## 🧭Table of Contents
 1.Summary
+
 2.Tools Used
+
 3.Vulnerabilities Identified
 - Cross-Domain Misconfiguration Report.md
 - Missing CSP header Report.md
