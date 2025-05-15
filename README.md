@@ -24,14 +24,14 @@ All findings are presented with:
 
 ## 3.🚫Vulnerabilities Identified
 ---
-- [Cross-Domain Misconfiguration](juice-shop/Cross-Domain-Misconfiguration-Report.md)
-- [Missing CSP header](juice-shop/Missing-CSP-header-Report.md)
-- [Missing anti click-jacking Header](juice-shop/Missing-anti-click-jacking-Header-Report.md)
-- [Possible SQL Injection](juice-shop/Possible-SQL-Injection-Report.md)
-- [Private IP Disclosure](juice-shop/Private-IP-Disclosure-Report.md)
-- [Retrieved from Cache](juice-shop/Retrieved-from-Cache-Report.md)
-- [Timestamp Disclosure](juice-shop/Timestamp-Disclosure-Report.md)
-- [X-Content-Type-Options Header missing](juice-shop/X-Content-Type-Options-Header-Missing-Report.md)
+- [Cross-Domain Misconfiguration](juice-shop/cross-domain-misconfiguration-report.md)
+- [Missing CSP header](juice-shop/missing-csp-header-report.md)
+- [Missing anti click-jacking Header](juice-shop/missing-anti-click-jacking-header-report.md)
+- [Possible SQL Injection](juice-shop/possible-sql-injection-report.md)
+- [Private IP Disclosure](juice-shop/private-ip-disclosure-report.md)
+- [Retrieved from Cache](juice-shop/retrieved-from-cache-report.md)
+- [Timestamp Disclosure](juice-shop/timestamp-disclosure-report.md)
+- [X-Content-Type-Options Header missing](juice-shop/x-content-type-options-header-missing-report.md)
 
 ---
 
