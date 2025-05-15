@@ -2,6 +2,8 @@
 
 ## 🧭Table of Contents
 
+---
+
 ### 1.📝Summary:
 
 This report documents security vulnerabilities identified during a penetration test of the OWASP Juice Shop application using OWASP ZAP. The objective eas to simulate real-world reconnaissance and attack techniques to discover misconfigurations, missing headers and injection flaws.
